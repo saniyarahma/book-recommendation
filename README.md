@@ -7,6 +7,7 @@
 ## Dataset
 
 Dataset yang digunakan diambil dari dataset publik kaggle → [![Kaggle Badge](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/ishikajohari/best-books-10k-multi-genre-data)
+
 Atribut yang terdapat pada dataset book :
 - Serial No     : nomor urut buku
 - Book          : nama buku
