@@ -24,7 +24,7 @@ Dataset tersebut memiliki 8 kolom secara keseluruhan. Pada sistem rekomendasi in
 
 ## Permasalahan dan Tujuan Eksperimen
 
-Sistem rekomendasi menjadi salah satu solusi yang dapat menyelesaikan masalah dalam pencarian buku yang sesuai dengan keinginan para pembaca dan menambah referensi pengetahuan terhadap buku lain yang serupa.Dengan menggunakan algoritma TF-IDF yang digunakan sebagai metode untuk pengukuran deskripsi suatu item tekstual dalam pendekatan Content Based Filtering. Selain itu, memanfaatkan cosine similarity sebagai sistem yang dapat mengukur kemiripan pada setiap buku dengan menggunakan perhitungan antar vector. Melalui sistem rekomendasi ini, pembaca buku diharapkan dapat menambah referensi baru berdasarkan buku-buku yang diminati sebelumnya.
+Sistem rekomendasi menjadi salah satu solusi yang dapat menyelesaikan masalah dalam pencarian buku yang sesuai dengan keinginan para pembaca dan menambah referensi pengetahuan terhadap buku lain yang serupa. Dengan menggunakan algoritma TF-IDF yang digunakan sebagai metode untuk pengukuran deskripsi suatu item tekstual dalam pendekatan Content Based Filtering. Selain itu, memanfaatkan cosine similarity sebagai sistem yang dapat mengukur kemiripan pada setiap buku dengan menggunakan perhitungan antar vector. Melalui sistem rekomendasi ini, pembaca buku diharapkan dapat menambah referensi baru berdasarkan buku-buku yang diminati sebelumnya.
 
 ---
 
