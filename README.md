@@ -22,13 +22,13 @@ Dataset tersebut memiliki 8 kolom secara keseluruhan. Pada sistem rekomendasi in
 
 ---
 
-## Tujuan
+## Permasalahan dan Tujuan Eksperimen
 
-Sistem rekomendasi menjadi salah satu solusi yang dapat menyelesaikan masalah dalam pencarian buku yang sesuai dengan keinginan para pembaca dan menambah referensi pengetahuan terhadap buku lain yang serupa. Melalui sistem rekomendasi ini, pembaca buku diharapkan dapat menambah referensi baru berdasarkan buku-buku yang diminati sebelumnya.
+Sistem rekomendasi menjadi salah satu solusi yang dapat menyelesaikan masalah dalam pencarian buku yang sesuai dengan keinginan para pembaca dan menambah referensi pengetahuan terhadap buku lain yang serupa.Dengan menggunakan algoritma TF-IDF yang digunakan sebagai metode untuk pengukuran deskripsi suatu item tekstual dalam pendekatan Content Based Filtering. Selain itu, memanfaatkan cosine similarity sebagai sistem yang dapat mengukur kemiripan pada setiap buku dengan menggunakan perhitungan antar vector. Melalui sistem rekomendasi ini, pembaca buku diharapkan dapat menambah referensi baru berdasarkan buku-buku yang diminati sebelumnya.
 
 ---
 
-## Metode dan Tahapan
+## Metode dan Tahapan Eksperimen
 
 - Data Collection :
   Pada tahapan ini melakukan pencarian dataset yang akan digunakan. Dataset yang di dapat berupa dataset Best Books (10k) Multi-Genre Data
@@ -49,4 +49,5 @@ Performa uji dilakukan melalui metode K-Fold Cross-Validation, di mana penulis s
 
 ## Deployment
 
-- Sistem Rekomendasi Buku dapat digunakan pada link → [![Streamlit Badge](https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit&logoColor=white)](https://saniyarahma-book-recommendation-app-5h5zoq.streamlit.app/)
+Sistem Rekomendasi Buku dapat digunakan pada link → [![Streamlit Badge](https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit&logoColor=white)](https://saniyarahma-book-recommendation-app-5h5zoq.streamlit.app/)
+###### Selamat Mencoba 😊💙✨
